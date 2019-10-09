@@ -9,5 +9,3 @@ function countSubstrings(str = '', substring){
   }
   return x
 }
-
-console.log(countSubstrings('tony tony', 'tony'))
