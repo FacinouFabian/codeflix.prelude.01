@@ -1,4 +1,4 @@
-function countSubstrings(str = '', substring){
+module.exports= function countSubstrings(str = '', substring){
   str = str.split(" ")
   size = str.length
   x = 0
